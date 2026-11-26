@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 10 problems · 0 labs · 0 math
+**11** solved · 11 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-26 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-26 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-26 | [solution](problems/0003-reshape-matrix) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-11-26 | [solution](problems/0024-single-neuron) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-26 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-11-26 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-11-26 | [solution](problems/0017-k-means-clustering) |
