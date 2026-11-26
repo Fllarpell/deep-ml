@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:19:13.668Z",
+  "generated_at": "2026-11-26T21:19:21.754Z",
   "items": {
     "problem:21": {
       "kind": "problem",
@@ -154,6 +154,19 @@
       "path": "problems/0034-one-hot-encoding-of-nominal-values",
       "first_solved_at": "2026-11-26T21:19:13.001Z",
       "last_pushed_at": "2026-11-26T21:19:13.001Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-11-26T21:19:20.991Z",
+      "last_pushed_at": "2026-11-26T21:19:20.991Z",
       "language": "python",
       "lines": 15
     }
